@@ -1,0 +1,3 @@
+﻿  neople1.cpp
+C:\WorkSpace\AlgorithmSolution\school.programmers.co.kr\neople1\neople1\neople1.cpp(41,12): warning C4244: 'return': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  neople1.vcxproj -> C:\WorkSpace\AlgorithmSolution\school.programmers.co.kr\neople1\x64\Debug\neople1.exe
